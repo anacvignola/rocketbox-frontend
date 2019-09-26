@@ -23,6 +23,9 @@ This project was developed at the [RocketSeat OmniStack Week 6](https://rocketse
 -  [ReactJS](https://reactjs.org/)
 -  [React Router](https://github.com/ReactTraining/react-router)
 -  [styled-components](https://www.styled-components.com/)
+-  [Dropzone](https://github.com/react-dropzone/react-dropzone)
+-  [React-icons](https://www.npmjs.com/package/react-icons)
+-  [Date-fns](https://date-fns.org/)
 -  [axios](https://github.com/axios/axios)
 -  [VS Code][vc]
 
