@@ -40,6 +40,7 @@ $ yarn install
 # Start the backend server
 $ yarn start
 ```
+Or go [here](https://frontend-rocket-box.herokuapp.com/).
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
